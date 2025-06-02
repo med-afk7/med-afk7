@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student passionate about building real-world apps
+- 🎓 Final-year Computer Science student 
 - 🛠️ Full-stack developer specializing in the **MERN stack**
 - 🍿 Movie lover & API explorer
 - 🏋️‍♂️ Gym regular and fitness fan
