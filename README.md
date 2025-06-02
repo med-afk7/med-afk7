@@ -1,6 +1,18 @@
 <!-- Hi there 👋 I'm med-afk7! -->
 
-<h1 align="center">Hey, I'm med-afk7 👨‍💻</h1>
+<p align="center">
+<pre>
+      💪🤓
+    /|    |\
+   /_|____|_\
+     |    |
+    /|____|\
+   /_/    \_\
+Muscular Nerd Vibes!
+</pre>
+</p>
+
+<h1 align="center">Hey, I'm AhmedArman 👨‍💻</h1>
 <p align="center">
   <em>4th year CS Student | MERN Stack Full-Stack Dev | Movie Buff | Gym Enthusiast | Gamer</em>
 </p>
@@ -40,10 +52,8 @@
 
 ## 📫 Connect
 
-<!-- Add your real links if you want! -->
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <!-- <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> -->
+  <a href="mailto:ahmedwaleedarman7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
