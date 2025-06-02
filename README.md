@@ -1,18 +1,11 @@
+````markdown name=README.md
 <!-- Hi there 👋 I'm med-afk7! -->
 
 <p align="center">
-<pre>
-      💪🤓
-    /|    |\
-   /_|____|_\
-     |    |
-    /|____|\
-   /_/    \_\
-Muscular Nerd Vibes!
-</pre>
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="180" alt="Lifting weights nerdy guy"/>
 </p>
 
-<h1 align="center">Hey, I'm AhmedArman 👨‍💻</h1>
+<h1 align="center">Hey, I'm med-afk7 👨‍💻💪</h1>
 <p align="center">
   <em>4th year CS Student | MERN Stack Full-Stack Dev | Movie Buff | Gym Enthusiast | Gamer</em>
 </p>
@@ -21,11 +14,13 @@ Muscular Nerd Vibes!
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science student, passionate about building real-world apps
+- 🎓 Final-year Computer Science student passionate about building real-world apps
 - 🛠️ Full-stack developer specializing in the **MERN stack**
 - 🍿 Movie lover & API explorer
 - 🏋️‍♂️ Gym regular and fitness fan
 - 🎮 Competitive gamer (challenge me anytime!)
+
+---
 
 ## 🧰 My Tech Toolbox
 
@@ -36,6 +31,8 @@ Muscular Nerd Vibes!
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
+---
+
 ## 📌 Featured Projects
 
 - [MERN App](https://github.com/med-afk7/mern-app)  
@@ -44,11 +41,16 @@ Muscular Nerd Vibes!
 - [Movie API Explorer](https://github.com/med-afk7/movie-api-calling)  
   <sup>🍿 Discover movies and make API calls like a pro!</sup>
 
+---
+
 ## 🎯 Fun Facts
 
 - 🏋️‍♂️ Gym is my second home — ask me about fitness routines!
+- 🤓💪 Proud nerd with muscles — code hard, lift harder!
 - 🎮 I’m always up for a gaming match (favorite genres: FPS, RPG, and more)
 - 🎬 Can talk movies for hours — recommendations always welcome
+
+---
 
 ## 📫 Connect
 
@@ -59,5 +61,6 @@ Muscular Nerd Vibes!
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=13C2F8&center=true&vCenter=true&width=435&lines=Building+something+awesome...;Let's+connect+and+collaborate!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=13C2F8&center=true&vCenter=true&width=435&lines=Code+Hard%2C+Lift+Harder!+💪🤓;Building+something+awesome...;Let's+connect+and+collaborate!+🚀" alt="Typing SVG" />
 </p>
+````
