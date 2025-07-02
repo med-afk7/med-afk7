@@ -7,7 +7,7 @@
 
 <h1 align="center">Hey, I'm med-afk7 👨‍💻💪</h1>
 <p align="center">
-  <em>4th year CS Student | MERN Stack Full-Stack Dev | Movie Buff | Gym Enthusiast | Gamer</em>
+  <em>4th year CS Student | MERN Stack Full-Stack Dev | </em>
 </p>
 
 ---
@@ -43,12 +43,7 @@
 
 ---
 
-## 🎯 Fun Facts
 
-- 🏋️‍♂️ Gym is my second home — ask me about fitness routines!
-- 🤓💪 Proud nerd with muscles — code hard, lift harder!
-- 🎮 I’m always up for a gaming match (favorite genres: FPS, RPG, and more)
-- 🎬 Can talk movies for hours — recommendations always welcome
 
 ---
 
