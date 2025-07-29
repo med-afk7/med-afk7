@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="180" alt="Lifting weights nerdy guy"/>
 </p>
 
-<h1 align="center">Hey, I'm med-afk7 👨‍💻💪</h1>
+<h1 align="center">Hey, I'm AhmedArman </h1>
 <p align="center">
   <em>4th year CS Student | MERN Stack Full-Stack Dev | </em>
 </p>
@@ -16,9 +16,8 @@
 
 - 🎓 Final-year Computer Science student 
 - 🛠️ Full-stack developer specializing in the **MERN stack**
-- 🍿 Movie lover & API explorer
-- 🏋️‍♂️ Gym regular and fitness fan
-- 🎮 Competitive gamer (challenge me anytime!)
+
+
 
 ---
 
@@ -39,7 +38,7 @@
   <sup>💻 A full-stack web app built with MongoDB, Express, React, and Node.js</sup>
 
 - [Movie API Explorer](https://github.com/med-afk7/movie-api-calling)  
-  <sup>🍿 Discover movies and make API calls like a pro!</sup>
+  <sup>🍿 Discover movies</sup>
 
 ---
 
