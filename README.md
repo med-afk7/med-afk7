@@ -9,13 +9,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Final-year Computer Science student  
-- 🛠️ Full-stack developer specializing in the **MERN stack**  
-- 📱 Passionate about **mobile app development** with React Native & Expo  
-- 💻 Always learning and experimenting with **TypeScript** for safer, cleaner code  
-- 🔥 Big fan of **streak challenges** and gamified productivity  
+-  Final-year Computer Science student  
+-  Full-stack developer specializing in the **MERN stack**  
+-  Passionate about **mobile app development** with React Native & Expo  
+-  Always learning and experimenting with **TypeScript** for safer, cleaner code  
+-  Big fan of **streak challenges** and gamified productivity  
 
 ---
 
@@ -38,13 +38,13 @@
 ## 📌 Featured Projects
 
 - [MERN App](https://github.com/med-afk7/mern-app)  
-  <sup>💻 Full-stack web app built with MongoDB, Express, React, Node.js, and TypeScript</sup>
+  <sup> Full-stack web app built with MongoDB, Express, React, Node.js, and TypeScript</sup>
 
 - [Movie API Explorer](https://github.com/med-afk7/movie-api-calling)  
-  <sup>🍿 Explore and discover movies with a clean React frontend</sup>
+  <sup>Explore and discover movies with a clean React frontend</sup>
 
 - [Workout Tracker (React Native & Expo)](https://github.com/med-afk7/workout-tracker)  
-  <sup>📱 Mobile app to track workouts and calories, built with React Native, Expo, and TypeScript</sup>
+  <sup> Mobile app to track workouts and calories, built with React Native, Expo, and TypeScript</sup>
 
 ---
 
