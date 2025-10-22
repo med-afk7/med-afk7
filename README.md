@@ -65,8 +65,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=med-afk7&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub streak" width="45%" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=13C2F8&center=true&vCenter=true&width=435&lines=Code+Hard%2C+Lift+Harder!+💪🤓;Building+something+awesome...;Let's+connect+and+collaborate!+🚀" alt="Typing SVG" />
-</p>
